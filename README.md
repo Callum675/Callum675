@@ -15,10 +15,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callum675&label=Profile%20views&color=0e75b6&style=flat" alt="callum675" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callum675" alt="callum675" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/callum675_" target="blank"><img src="https://img.shields.io/twitter/follow/callum675_?logo=twitter&style=for-the-badge" alt="callum675_" /></a> </p>
-
 - 📫 How to reach me **callummcintosh6675@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
