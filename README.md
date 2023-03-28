@@ -9,8 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<<h1 align="center">Hi 👋, I'm Callum Mcintosh</h1>
+<h1 align="center">Hi 👋, I'm Callum Mcintosh</h1>
 <h3 align="center">A software engineer with a passion for creating innovative solutions to complex problems from Scotland</h3>
 
 - 📫 How to reach me **callummcintosh6675@gmail.com**
