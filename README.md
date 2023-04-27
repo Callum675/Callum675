@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Callum Mcintosh</h1>
 <h3 align="center">A software engineer with a passion for creating innovative solutions to complex problems from Scotland</h3>
 
-- 🌱 I’m currently learning .Net, Jest, Next.js
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me **callummcintosh6675@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
